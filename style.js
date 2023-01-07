@@ -14,7 +14,7 @@ function add(num1, num2){
 
 function joined(){
     let title = document.getElementById('title');
-    title.innerText = 'Thanks for joining the masterclass live!!';
+    title.innerText = 'Thanks for joining!!';
     let btn = document.getElementById('btn')
     btn.style.display = 'none'
 }
