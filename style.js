@@ -1,11 +1,4 @@
-let coffee = 'brew'
-coffee = 'nescafe'
-let email = 'ashish@gmail.com'
-let age = 25;
 
-function grinder(items){
-    console.log('grinding...', items)
-}
 
 function add(num1, num2){
     console.log('The sum is: ', num1+num2)
